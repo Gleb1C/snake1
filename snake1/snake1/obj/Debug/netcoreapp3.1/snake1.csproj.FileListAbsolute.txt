@@ -1,0 +1,14 @@
+E:\testing\repository1\snake1\snake1\bin\Debug\netcoreapp3.1\snake1.exe
+E:\testing\repository1\snake1\snake1\bin\Debug\netcoreapp3.1\snake1.deps.json
+E:\testing\repository1\snake1\snake1\bin\Debug\netcoreapp3.1\snake1.runtimeconfig.json
+E:\testing\repository1\snake1\snake1\bin\Debug\netcoreapp3.1\snake1.runtimeconfig.dev.json
+E:\testing\repository1\snake1\snake1\bin\Debug\netcoreapp3.1\snake1.dll
+E:\testing\repository1\snake1\snake1\bin\Debug\netcoreapp3.1\snake1.pdb
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.csproj.AssemblyReference.cache
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.GeneratedMSBuildEditorConfig.editorconfig
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.AssemblyInfoInputs.cache
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.AssemblyInfo.cs
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.csproj.CoreCompileInputs.cache
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.dll
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.pdb
+E:\testing\repository1\snake1\snake1\obj\Debug\netcoreapp3.1\snake1.genruntimeconfig.cache
