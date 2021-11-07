@@ -6,5 +6,8 @@ namespace snake1
 {
     class Point
     {
+        public int x;
+        public int y;
+        public char sym;
     }
 }
