@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 ﻿using System;
 using System.Collections.Generic;
+=======
+﻿// See https://aka.ms/new-console-template for more information
+using System;
+>>>>>>> Stashed changes
 namespace snake1
 {
     class Program

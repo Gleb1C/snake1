@@ -1,6 +1,10 @@
 ﻿using System;
+<<<<<<< Updated upstream
 using System.Collections.Generic;
 using System.Text;
+=======
+
+>>>>>>> Stashed changes
 
 namespace snake1
 {
